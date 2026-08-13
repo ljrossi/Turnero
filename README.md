@@ -12,7 +12,7 @@
 
 Here’s a quick preview of the application interface and its functionality:
 
-| Main View (imagen1) | Calendar Preview (imagen2) | Anomalies / Exceptions (imagen3) | PDF Export (imagen4) |
+| Main View  | Calendar Preview  | Anomalies / Exceptions  | PDF Export  |
 | :---: | :---: | :---: | :---: |
 | <img src="imagen/imagen1.png" alt="Main Interface" width="220"/> | <img src="imagen/imagen2.png" alt="Calendar View" width="220"/> | <img src="imagen/imagen3.png" alt="Anomalies detection" width="220"/> | <img src="imagen/imagen4.png" alt="PDF Export" width="220"/> |
 
