@@ -11,9 +11,9 @@
 
 Here’s a quick preview of the application interface and its functionality:
 
-| Main View | Calendar Preview | PDF Export |
+| Main View | Calendar Preview | Anomalias | PDF Export |
 | :---: | :---: | :---: |
-| <img src="imagen/imagen1.png" alt="Main Interface" width="250"/> | <img src="imagen/imagen2.png" alt="Calendar View" width="250"/> | <img src="imagen/imagen3.png" alt="PDF Export" width="250"/> |
+| <img src="imagen/imagen1.png" alt="Main Interface" width="250"/> | <img src="imagen/imagen2.png" alt="Calendar View" width="250"/> |<img src="imagen/imagen3.png" alt="Anomalia" width="250"/>| <img src="imagen/imagen4.png" alt="PDF Export" width="250"/> |
 
 ---
 
