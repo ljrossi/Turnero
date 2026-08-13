@@ -9,7 +9,6 @@
 
 ## 📸 Screenshots / Demo
 
-
 Here’s a quick preview of the application interface and its functionality:
 
 | Main View  | Calendar Preview  | Anomalies / Exceptions  | PDF Export  |
@@ -41,20 +40,19 @@ It is specifically designed for teams structured into **4 groups of 2 people**, 
 
 ## 🛠️ Getting Started
 
-*(Agrega aquí las instrucciones para instalar y ejecutar tu proyecto, por ejemplo:)*
+Ejecutar la aplicación es muy sencillo. Hemos incluido scripts automatizados que verifican tu instalación de Python, instalan las dependencias necesarias (como `reportlab`) y lanzan el programa por ti.
 
-1. Clone the repository.
-2. Install dependencies (if any).
-3. Run the main executable or script.
+### ✅ Requisito previo (Prerequisite)
+- **Python 3.x**: Asegúrate de tener Python instalado en tu sistema. Si no lo tienes, descárgalo desde [python.org](https://www.python.org/). *(Los scripts te avisarán si falta Python).*
 
----
+### ▶️ Ejecutar la aplicación
 
-## 🤝 Contributing
+Elige el script según tu sistema operativo:
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+- **🪟 Windows**: Haz doble clic en el archivo **`run.bat`** que está en la carpeta del proyecto.
+  
+- **🐧 Linux / macOS**:
+  1. Abre una terminal en la carpeta del proyecto.
+  2. Dale permisos de ejecución al script (solo la primera vez):
+     ```bash
+     chmod +x run.sh
