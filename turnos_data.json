@@ -1,0 +1,38 @@
+{
+  "tecnicos": {
+    "A": [
+      "Brian Leon",
+      "Jose Alvarez"
+    ],
+    "B": [
+      "Dario Garcia",
+      "Santiago Goodman"
+    ],
+    "C": [
+      "Vallejo",
+      "Federico Blanco"
+    ],
+    "D": [
+      "Brian Grespan",
+      "Jose Morales"
+    ]
+  },
+  "anomalias": {
+    "A": {
+      "0": {
+        "2026-09-01": "Franco Compensatorio",
+        "2026-09-02": "Franco Compensatorio",
+        "2026-09-03": "Franco Compensatorio"
+      },
+      "1": {}
+    },
+    "C": {
+      "0": {},
+      "1": {
+        "2026-08-28": "Franco Compensatorio",
+        "2026-08-29": "Franco Compensatorio",
+        "2026-08-30": "Franco Compensatorio"
+      }
+    }
+  }
+}
