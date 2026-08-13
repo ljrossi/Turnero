@@ -1,7 +1,7 @@
 # 📅 Shift Scheduler - GUI
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
+[![License](https://img.shields.io/badge/license- GPLv3-blue.svg)]()
 
 > A powerful desktop GUI application to automate shift scheduling for work teams.
 
@@ -59,3 +59,6 @@ Elige el script según tu sistema operativo:
      chmod +x run.sh
   3 Ejecuta ./run.sh   
   4 Ejecuta bash run.sh
+
+## 📄 License
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
