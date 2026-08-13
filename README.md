@@ -50,9 +50,12 @@ Ejecutar la aplicación es muy sencillo. Hemos incluido scripts automatizados qu
 Elige el script según tu sistema operativo:
 
 - **🪟 Windows**: Haz doble clic en el archivo **`run.bat`** que está en la carpeta del proyecto.
+    Puedes ejecutar en linea de comandos también   run.bat
   
 - **🐧 Linux / macOS**:
   1. Abre una terminal en la carpeta del proyecto.
   2. Dale permisos de ejecución al script (solo la primera vez):
      ```bash
      chmod +x run.sh
+  3 Ejecuta ./run.sh   
+  4 Ejecuta bash run.sh
