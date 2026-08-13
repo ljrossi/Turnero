@@ -6,13 +6,21 @@ echo  SUBIR PROYECTO A GITHUB
 echo ========================================
 echo.
 
-set /p repoURL="Introduce la URL del repositorio (ej: https://github.com/usuario/repo.git): "
+set /p githubUser="Introduce tu usuario de GitHub (ej: ljrossi): "
+set /p repoName="Introduce el nombre del repositorio (ej: wikiquiz): "
 
-if "%repoURL%"=="" (
-    echo ERROR: No introdujiste ninguna URL.
+if "%githubUser%"=="" (
+    echo ERROR: Usuario vacio.
     pause
     exit /b 1
 )
+if "%repoName%"=="" (
+    echo ERROR: Nombre del repositorio vacio.
+    pause
+    exit /b 1
+)
+
+set "repoURL=https://github.com/%githubUser%/%repoName%.git"
 
 echo.
 echo [1/6] Inicializando repositorio Git...
